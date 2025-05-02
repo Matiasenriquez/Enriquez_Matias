@@ -1,2 +1,4 @@
-# Enriquez_Matias
-🚀✨ Repositorio de entrega para la actividad de la Semana 6 del nivel 2
+#Curso de Programación Full Stack
+##MÓDULO 2 - Repositorio y Workflow
+Autor: nombre y apellido del estudiante
+Descripción: este repositorio fue creado con fines académicos por lo que en el futuro cercano será eliminado
